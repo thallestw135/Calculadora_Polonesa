@@ -1,2 +1,2 @@
 # Calculadora_Polonesa
-Link do vídeo: 
+Link do vídeo explicação:  
